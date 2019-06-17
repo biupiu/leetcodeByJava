@@ -1,2 +1,2 @@
 # Leetcode上的一些算法题
-> 实现使用Java
+> 使用Java作为解题语言
